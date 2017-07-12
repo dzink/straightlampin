@@ -1,3 +1,0 @@
-steps:
-  - name: Probo site setup
-    plugin: LAMPApp
