@@ -1,3 +1,8 @@
 steps:
   - name: Probo site setuppppp
     plugin: LAMPApp
+    phpIniOptions:
+      memory_limit: 17M
+    phpConstants:
+      MEOW: 1
+      ROAR: 2
